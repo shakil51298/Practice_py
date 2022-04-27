@@ -8,6 +8,7 @@ friends.remove("new name")
 friends.pop()
 # friends[2] = "Khan"
 # friends.clear();
-print(friends)
+firends2  = friends.copy()
+print(firends2)
 
 
