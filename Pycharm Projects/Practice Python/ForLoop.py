@@ -1,5 +1,6 @@
 # for loop
-# first example
+
+
 friendsName =["shakil", "Khalid Hossain", "Kobir Hossain"]
 for index in range(len(friendsName)):
     print(friendsName[index])
