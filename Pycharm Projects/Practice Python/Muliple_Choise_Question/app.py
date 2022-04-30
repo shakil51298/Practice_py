@@ -20,4 +20,4 @@ def run_test(questions):
         if answer == question.answer:
             score += 1
     print("You got " + str(score)+ "/" + str(len(questions)) +" correct!")
-run_test(questions)
+run_test(questions) 
